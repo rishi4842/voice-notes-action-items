@@ -5,8 +5,7 @@ A Streamlit application that converts voice notes into a clear transcript, conci
 ## 🚀 Live Demo
 
 **Try the application:**  
-voice-notes-action-items ∙ main ∙ app.py
-
+(https://voice-notes-action-items-ksn3mm8tkk2rrxcdgjhdv8.streamlit.app/)
 ## 📌 Project Overview
 
 Voice notes are often unstructured and difficult to turn into actionable information.
